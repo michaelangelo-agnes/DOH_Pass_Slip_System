@@ -103,7 +103,7 @@ function Archives() {
       <thead>
         <tr>
         <th></th>
-        <th>Request Date</th>
+        <th>Date Requested</th>
         <th>Total Hours/Minutes</th>
         <th>Employee Name</th>
         <th>Request For</th>
